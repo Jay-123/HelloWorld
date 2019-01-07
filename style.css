@@ -1,7 +1,21 @@
-#opening{color: white; font-size: 20mm;
+#opening{color: white; font-size: 15mm;
         background-color: blue;
         border-block-end-width: 45mm;
+        height: 75mm
 }
-#about-me{color: white;
-        background-color: blue;
+#about-me-link{text-align: right;
+        background-color: azure; 
+        border-block-end-width: 20mm;
+        height: 15mm;
+        padding-top: 5mm;
+        padding-right: 2mm;
+}
+h1{text-align: center;
+}
+#about-me{font-size: 7mm;
+          text-align: center;
+          color: white;
+          background-color: blue;
+          border-block-end-width: 45mm;
+          height: 14mm 
 }
