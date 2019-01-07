@@ -1,16 +1,7 @@
 #opening{color: white; font-size: 15mm;
-        background-color: blue;
-        border-block-end-width: 45mm;
-        height: 75mm
-}
-#about-me-link{text-align: right;
-        background-color: azure; 
-        border-block-end-width: 20mm;
-        height: 15mm;
-        padding-top: 5mm;
-        padding-right: 2mm;
-}
-h1{text-align: center;
+         background-color: blue;
+         border-block-end-width: 45mm;
+  height: 75mm
 }
 #about-me{font-size: 7mm;
           text-align: center;
@@ -18,4 +9,22 @@ h1{text-align: center;
           background-color: blue;
           border-block-end-width: 45mm;
           height: 14mm 
+}
+a{text-align: right;
+  background-color: azure;
+  border-left-width: 10mm; 
+  border-block-end-width: 20mm;
+  height: 15mm;
+  padding-top: 5mm;
+  padding-right: 2mm;
+  padding-left: 2mm;
+}
+body{background-color: lightgrey;
+}
+h1{text-align: center;
+}
+h2{text-align: center;
+}
+p{text-align: center;
+  border-block-end: 10mm        
 }
