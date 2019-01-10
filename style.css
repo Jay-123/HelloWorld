@@ -3,6 +3,12 @@
     border-block-end-width: 45mm;
     height: 75mm
 }
+#welcome{margin-left: 5mm;
+}
+#jaysdomain{margin-left: 33mm;
+}
+#sticky{position: sticky;
+}
 .format{font-size: 7mm;
      text-align: center;
      color: white;
@@ -14,18 +20,23 @@
 background-color: azure;
 border-left-width: 5mm; 
 border-block-end-width: 8mm;
+border-radius: 21%;
 height: 15mm;
-padding-top: 4mm;
-padding-right: 2mm;
-padding-left: 2mm;
-padding-bottom: 4mm;
-margin-left: 925px;
-/*position: sticky;
-position: -webkit-sticky;*/
+padding: 15px;
+margin-top: -10mm;
+margin-left: 935px;
+margin-bottom: 25px;
+}
+.index_link{background-color: azure;
+            Margin: 5mm;
+            padding: 2mm;
+            border-radius: 21%;
 }
 body{background-color: lightgrey;
 }
 h2{text-align: center;
+}
+h3{text-align: center;
 }
 p{text-align: center;
 border-block-end: 10mm;       
@@ -34,4 +45,7 @@ border-block-end: 10mm;
         background-origin: border-box;
         margin-left: 20mm;
         margin-right: 20mm;
+}
+.image{height: 251px;
+       width: 251px;
 }
