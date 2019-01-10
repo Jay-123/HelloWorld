@@ -1,17 +1,14 @@
 #opening{color: white; font-size: 15mm;
-  background-color: blue;
-  border-block-end-width: 45mm;
-height: 75mm
+    background-color: blue;
+    border-block-end-width: 45mm;
+    height: 75mm
 }
-#about-me{font-size: 7mm;
-   text-align: center;
-   color: white;
-   background-color: blue;
-}
-#learning-tools{font-size: 7mm;
-  text-align: center;
-  color: white;
-  background-color: blue;
+.format{font-size: 7mm;
+     text-align: center;
+     color: white;
+     background-color: blue;
+     height: 10mm;
+     border-top: white;
 }
 .link{box-align: right;
 background-color: azure;
@@ -22,13 +19,11 @@ padding-top: 4mm;
 padding-right: 2mm;
 padding-left: 2mm;
 padding-bottom: 4mm;
-margin-left: 1018px;
+margin-left: 925px;
 /*position: sticky;
 position: -webkit-sticky;*/
 }
 body{background-color: lightgrey;
-}
-h1{text-align: center;
 }
 h2{text-align: center;
 }
@@ -36,5 +31,7 @@ p{text-align: center;
 border-block-end: 10mm;       
 }
 #border{background-color: white;
-      background-origin: border-box;
+        background-origin: border-box;
+        margin-left: 20mm;
+        margin-right: 20mm;
 }
