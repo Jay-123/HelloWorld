@@ -5,7 +5,7 @@
 #welcome{margin-left: 5mm;
          font-family: Arial;
 }
-#jaysdomain{margin-left: 33mm;
+#jaysdomain{text-align: center;
 }
 .format{font-size: 7mm;
         text-align: center;
@@ -18,9 +18,10 @@
       border-left-width: 5mm; 
       border-block-end-width: 8mm;
       border-radius: 21%;
-      height: 15mm;
-      padding: 15px;
-      margin-top: 2mm;
+      height: 6mm;
+      padding: 2mm;
+      margin-top: -24mm;
+      position: fixed;
 }
 .index_link{background-color: azure;
             Margin: 5mm;
