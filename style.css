@@ -1,31 +1,26 @@
 #opening{color: white; font-size: 15mm;
     background-color: blue;
-    border-block-end-width: 45mm;
     height: 75mm
 }
 #welcome{margin-left: 5mm;
+         font-family: Arial;
 }
 #jaysdomain{margin-left: 33mm;
 }
-#sticky{position: sticky;
-}
 .format{font-size: 7mm;
-     text-align: center;
-     color: white;
-     background-color: blue;
-     height: 10mm;
-     border-top: white;
+        text-align: center;
+        color: white;
+        background-color: blue;
+        height: 10mm;
+        border-top: white;
 }
-.link{box-align: right;
-background-color: azure;
-border-left-width: 5mm; 
-border-block-end-width: 8mm;
-border-radius: 21%;
-height: 15mm;
-padding: 15px;
-margin-top: -10mm;
-margin-left: 935px;
-margin-bottom: 25px;
+.link{background-color: azure;
+      border-left-width: 5mm; 
+      border-block-end-width: 8mm;
+      border-radius: 21%;
+      height: 15mm;
+      padding: 15px;
+      margin-top: 2mm;
 }
 .index_link{background-color: azure;
             Margin: 5mm;
@@ -39,12 +34,12 @@ h2{text-align: center;
 h3{text-align: center;
 }
 p{text-align: center;
-border-block-end: 10mm;       
+  border-block-end: 10mm;       
 }
 #border{background-color: white;
         background-origin: border-box;
-        margin-left: 20mm;
-        margin-right: 20mm;
+        margin-left: 25mm;
+        margin-right: 25mm;
 }
 .image{height: 251px;
        width: 251px;
