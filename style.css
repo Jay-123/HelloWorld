@@ -15,18 +15,20 @@
         border-top: white;
 }
 .link{background-color: azure;
-      border-left-width: 5mm; 
-      border-block-end-width: 8mm;
-      border-radius: 21%;
-      height: 6mm;
+      border-radius: 22%;
+      margin-top: -20mm;
       padding: 2mm;
-      margin-top: -24mm;
+      font-size: 5mm;
       position: fixed;
 }
+#index_link{position: sticky;
+            position: -webkit-sticky;
+}
 .index_link{background-color: azure;
+            border-radius: 21%;
+            display: inline-block;
             Margin: 5mm;
             padding: 2mm;
-            border-radius: 21%;
 }
 body{background-color: lightgrey;
 }
@@ -41,6 +43,7 @@ p{text-align: center;
         background-origin: border-box;
         margin-left: 25mm;
         margin-right: 25mm;
+        font-size: 5mm;
 }
 .image{height: 251px;
        width: 251px;
