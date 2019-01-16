@@ -1,31 +1,32 @@
 #opening{color: white; font-size: 15mm;
-    background-color: blue;
-    height: 75mm
+         background-color:blue;
+         height: 75mm;
 }
 #welcome{margin-left: 5mm;
          font-family: Arial;
 }
 #jaysdomain{text-align: center;
 }
-.format{font-size: 7mm;
+.format{font-size: 10mm;
         text-align: center;
         color: white;
         background-color: blue;
         height: 10mm;
         border-top: white;
+        padding:5mm
+}
+#position{position: fixed;
+          position: top 0;      
 }
 .link{background-color: azure;
+      display: inline-block;
+      border-color: rgb(0, 81, 255);
       border-radius: 22%;
-      margin-top: -20mm;
-      padding: 2mm;
-      font-size: 5mm;
-      position: fixed;
-}
-#index_link{position: sticky;
-            position: -webkit-sticky;
+      Margin: 1mm;
+      padding: 2mm;    
 }
 .index_link{background-color: azure;
-            border-radius: 21%;
+            border-radius: 22%;
             display: inline-block;
             Margin: 5mm;
             padding: 2mm;
@@ -41,10 +42,21 @@ p{text-align: center;
 }
 #border{background-color: white;
         background-origin: border-box;
-        margin-left: 25mm;
-        margin-right: 25mm;
+        margin-top: 3mm;
+        margin-left: 27mm;
+        margin-right: 27mm;
         font-size: 5mm;
+        padding: 2mm;
 }
 .image{height: 251px;
        width: 251px;
+}
+#work_in_progress{color: lightgray;       
+                  text-align: center;
+                  font-size: 7mm;
+                  background-image: linear-gradient(to bottom right, black, yellow, black, yellow,
+                  black, yellow, black, yellow, black, yellow,
+                  black, yellow, black, yellow);
+                  padding: 15mm;
+                  margin-top: 3mm;
 }
