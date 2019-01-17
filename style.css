@@ -63,7 +63,6 @@ p{text-align: center;
 .sword{color: rgb(158, 158, 158);
        background-image: linear-gradient(to bottom left,
        white, azure, lightblue);
-       border-left-color: rgb(107, 39, 0);
        border-left-style: initial;
        border-left-width: 3mm;
        align-content: center;
