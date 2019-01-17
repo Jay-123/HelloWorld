@@ -35,7 +35,7 @@ body{background-color: lightgrey;
 }
 h2{text-align: center;
 }
-h3{text-align: center;
+h3{text-align: left;
 }
 p{text-align: center;
   border-block-end: 10mm;       
@@ -60,18 +60,30 @@ p{text-align: center;
                   padding: 15mm;
                   margin-top: 3mm;
 }
-/*.sword{color: rgb(158, 158, 158);
+.sword{color: rgb(158, 158, 158);
        background-image: linear-gradient(to bottom left,
-       lightblue, azure, white);
+       white, azure, lightblue);
        border-left-color: rgb(107, 39, 0);
+       border-left-style: initial;
        border-left-width: 3mm;
        align-content: center;
        border-top-right-radius: 50%;
        border-bottom-right-radius: 50%;
        padding-top: 1px;
-       padding-bottom: 5px;
+       padding-bottom: 15px;
        padding-right: 1px;
        padding-left: 1px;
        margin-right: 959px;
-       margin-left: 
-}*/
+       margin-left: 61px;
+       display: inline;
+}
+.hilt{color: blue;
+      background-color: rgb(119, 66, 23);
+      border-top-left-radius: 90%;
+      border-bottom-left-radius: 90%;
+      padding-top: 8mm;
+      padding-bottom: 3mm;
+      margin-right: 1280px;
+      margin-left: 55px;
+      display: inline;
+}
